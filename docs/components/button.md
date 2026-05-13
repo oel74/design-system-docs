@@ -4,6 +4,10 @@
 
 Le bouton permet à l’utilisateur de déclencher une action claire et identifiable.
 
+## Notes
+
+Ce composant doit être utilisé de manière cohérente sur toutes les interfaces.
+
 ## When to use
 
 Utiliser un bouton lorsqu’une action explicite doit être effectuée par l’utilisateur.
