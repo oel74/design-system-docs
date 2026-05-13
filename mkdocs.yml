@@ -1,1 +1,34 @@
+site_name: Liquid Design System
+site_description: Documentation du design system
+site_url: ""
 
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Accueil: index.md
+  - Foundations:
+      - Couleurs: foundations/colors.md
+      - Typographie: foundations/typography.md
+  - Components:
+      - Button: components/button.md
+      - Card: components/card.md
+      - Empty state: components/empty-state.md
+  - Patterns:
+      - Header détail: patterns/detail-header.md
+  - AI:
+      - Règles design system: ai/design-system-rules.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
