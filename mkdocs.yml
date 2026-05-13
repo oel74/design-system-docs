@@ -1,6 +1,6 @@
 site_name: Liquid Design System
 site_description: Documentation du design system
-site_url: ""
+site_url: "https://oel74.github.io/design-system-docs/"
 
 theme:
   name: material
