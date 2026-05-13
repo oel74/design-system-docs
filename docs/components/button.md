@@ -1,5 +1,10 @@
 # Button
 
+## Design reference
+
+[Figma component](https://www.figma.com/design/tRdECQKgt12FJaoI8B3xUf/03.-Components?node-id=172-1036&t=nueaMDhz44q8Xfj9-4)
+https://www.figma.com/design/tRdECQKgt12FJaoI8B3xUf/03.-Components?node-id=172-1036&t=nueaMDhz44q8Xfj9-4
+
 ## Purpose
 
 Le bouton permet à l’utilisateur de déclencher une action claire et identifiable.
